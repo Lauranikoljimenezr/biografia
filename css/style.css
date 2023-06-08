@@ -1,0 +1,8 @@
+body {
+    background: #FFF url("../images/fondo.jpg");
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 25px;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(rgb(233, 199, 199)), color-stop(50%, rgba(241, 148, 167, 0.761)), color-stop(90%, rgb(255, 255, 255)));
+}
